@@ -1,0 +1,1 @@
+$ hdfs dfs -put 01_District_wise_crimes_committed_IPC_* /crime/district_wise/
